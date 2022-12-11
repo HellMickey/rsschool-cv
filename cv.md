@@ -12,6 +12,11 @@ I work at a factory so it can't be any worse.
 I am roflyashchy, purposeful, dependent
 
 ## Skills
-clown 
-Git
+- clown 
+- Git
 
+## Education
+Tula State University (2015 - 2021)
+
+## Languages
+- Russian (native)
